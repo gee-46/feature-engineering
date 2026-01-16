@@ -5,7 +5,7 @@ Real-World Exploratory Data Analysis • Statistical Insights • ML-Ready Datas
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
 
-A focused data-analysis project that inspects factors influencing medical insurance charges, applies feature engineering, performs statistical testing, and produces a cleaned, ML-ready dataset for regression modeling.
+A focused data-analysis project that inspects factors influencing medical insurance charges, applies feature engineering, performs statistical testing, and produces a cleaned, ML-ready dataset for [...]
 
 ---
 
@@ -25,6 +25,9 @@ A focused data-analysis project that inspects factors influencing medical insura
 ---
 
 ## Project Overview
+
+This project represents the foundational stage of a machine learning pipeline. The notebook transforms raw insurance data into a structured, ML-ready format through advanced EDA, feature engineering, statistical validation, and standardization. These steps are critical for building reliable predictive models. The resulting dataset is optimized for training regression algorithms to estimate medical insurance charges, positioning this project as a practical bridge between data analysis and machine learning deployment.
+
 Insurance costs reflect demographic, lifestyle, and regional factors. This project investigates a real-world insurance dataset to:
 - Discover patterns and distributions
 - Engineer features that better capture health & risk signals
